@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olivia Dovoedo! I was born in Benin and i'm currently based in Benin.
+- 👋 Hi, I’m Olivia Dovoedo! I'm currently based in Benin.
 - 👀 I’m interested in data analysis in exploring the world of machine learning, particularly focusing on Python and related tools.
 - 🌱 I’m currently learning Python programming language along with its various libraries and frameworks.
 - 💞️ I’m looking to collaborate on open-source projects where I can contribute my skills while continuing to learn and grow as a data scientist and developer.
